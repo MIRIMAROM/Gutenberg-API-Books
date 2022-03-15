@@ -1,0 +1,21 @@
+{
+  "name": "exercise_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.2.2",
+    "Promise": "^1.0.5",
+    "request": "^2.88.2"
+  }
+}
