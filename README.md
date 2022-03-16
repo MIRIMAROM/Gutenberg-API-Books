@@ -1,8 +1,8 @@
 # Gutenberg-API-Books
 Project Gutenberg API - https://gutendex.com/, This is a simple books API .
-Build a nodejs http server that listens to calls from the frontend, gets the data from the API, and
+Building a nodejs http server that listens to calls from the frontend, gets the data from the API, and
 returns the data to the frontend.
-Build a Reactjs application that works with the API.
+Building a Reactjs application that works with the API.
 Requirements:
 ● Show a paginated list of books.
 ● When you click on a book from the list display the details of that book.
