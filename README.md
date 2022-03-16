@@ -1,5 +1,4 @@
 # Gutenberg-API-Books
-Project Gutenberg API - https://gutendex.com/, This is a simple books API .
 Building a nodejs http server that listens to calls from the frontend, gets the data from the API from 
 Project Gutenberg API - https://gutendex.com/, This is a simple books API, and
 returns the data to the frontend.
